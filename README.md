@@ -25,7 +25,7 @@ Over the past few years, I've bookmarked and stored lots of web resources that a
 
 ## SQL
 
-= [SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
 - [A Beginner's Guide to SQL](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 
 ## Fonts
